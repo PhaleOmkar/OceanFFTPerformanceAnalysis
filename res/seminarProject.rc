@@ -1,0 +1,9 @@
+//Headers File Declaration
+#include "../header/seminarProject.h"
+
+DEFAULT_LARGE_ICON ICON res/icon.ico
+MOON_IMAGE_TEXTURE BITMAP res/moon.bmp
+ASTRONAUT_IMAGE_TEXTURE BITMAP res/astronaut.bmp
+DETAILS_TEXTURE BITMAP res/modified_details_texture.bmp
+
+BACKGROUND_SOUND WAVE shanti_mantra.wav
